@@ -1,0 +1,10 @@
+[project]
+name = "mdn-django-ninja-locallibrary-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django-ninja>=1.3.0",
+    "django>=5.1.4",
+]
